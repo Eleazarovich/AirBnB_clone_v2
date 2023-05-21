@@ -22,4 +22,3 @@ def do_pack():
     if transfer.succeeded:
         return archive_path
     return None
-
